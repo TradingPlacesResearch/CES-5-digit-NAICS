@@ -1,4 +1,4 @@
-# CES-5-digit-NAICS
+# CES-5-digit-NAICS in R
 # Download the 5-digit NAICS CES Table
 
 # You will need to install blscrape and get a BLS api key
